@@ -4,6 +4,5 @@
 	 $Author$
 	 $Revision$
 	 
-	 
 	 $Source$
 	 
